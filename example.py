@@ -25,7 +25,7 @@ def main():
     llist.remove_node('z')
     print(llist)
 
-    llist.get(8)
+    llist.get(1)
 
 
 if __name__ == '__main__':

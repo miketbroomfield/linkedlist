@@ -19,7 +19,6 @@ class LinkedList:
 
     def add_first(self, node):
         old_head = self.head
-        # self.head = Node(data=node)
         self.head = node
         self.head.next = old_head
 

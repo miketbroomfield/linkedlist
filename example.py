@@ -1,3 +1,7 @@
+"""
+An example linked list
+"""
+
 from LinkedList import LinkedList, Node
 
 
